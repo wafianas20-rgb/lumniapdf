@@ -1,0 +1,5 @@
+{
+  "name": "LuminaPDF",
+  "description": "A modern, powerful, and secure client-side PDF tool suite. Merge, split, rotate, convert, and summarize PDFs using AI without your files ever leaving your browser (except for AI analysis).",
+  "requestFramePermissions": []
+}
